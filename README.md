@@ -1,2 +1,2 @@
-# python-codeermachine
-Codeermachine
+# Python: Codeermachine
+Codeermachine gemaakt met Python
